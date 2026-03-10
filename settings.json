@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "dimple_server.aternos.me",
+    "port": 42161,
     "version": ""
   },
   "position": {
